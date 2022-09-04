@@ -1,7 +1,7 @@
 # Code-Wars 
 Code Wars is a training platform that tracks and challenges my programming journey through ranks, or kata.The more challenges that are completed, the higher the rank one achieves in a gamified manner. There are several languages trainees can choose to train in, such as Ruby, C#, and Swift. Check out the langauges I tackle and let's fight a war that is not in our hands, but in our minds. Other components include being ranked against other players and seeing what others put for their solutions as a solid learning community. 
 
-**Link to profile:**
+**Link to profile:** https://www.codewars.com/users/ZehavaBatya
 ![Code_Wars](https://user-images.githubusercontent.com/84485729/187052861-725a3c55-9479-4eaf-b371-cd7a8ba59793.gif)
 
 ## How It's Made:
